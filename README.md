@@ -1,6 +1,5 @@
 # 2D Graphing Calculator
-
-https://aaronhe7.github.io/graphing-calculator/
+https://rokkamashritha.github.io/graphing-calculator/
 
 <img src="header.png" alt="x^3 + 6x^2 + x - 15" width="340">
 
